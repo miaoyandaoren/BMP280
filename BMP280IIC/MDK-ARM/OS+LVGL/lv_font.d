@@ -1,0 +1,13 @@
+os+lvgl\lv_font.o: ..\GUI\lvgl\src\font\lv_font.c
+os+lvgl\lv_font.o: ..\GUI\lvgl\src\font\lv_font.h
+os+lvgl\lv_font.o: ..\GUI\lvgl\src\font\../lv_conf_internal.h
+os+lvgl\lv_font.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+os+lvgl\lv_font.o: ..\GUI\lvgl\src\font\../lv_conf_kconfig.h
+os+lvgl\lv_font.o: ..\GUI\lvgl\src\font\../../../lv_conf.h
+os+lvgl\lv_font.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+os+lvgl\lv_font.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stdbool.h
+os+lvgl\lv_font.o: ..\GUI\lvgl\src\font\lv_symbol_def.h
+os+lvgl\lv_font.o: ..\GUI\lvgl\src\font\../misc/lv_area.h
+os+lvgl\lv_font.o: F:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+os+lvgl\lv_font.o: ..\GUI\lvgl\src\font\../misc/lv_utils.h
+os+lvgl\lv_font.o: ..\GUI\lvgl\src\font\../misc/lv_log.h

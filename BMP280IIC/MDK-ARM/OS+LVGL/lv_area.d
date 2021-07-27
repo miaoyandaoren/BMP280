@@ -1,0 +1,9 @@
+os+lvgl\lv_area.o: ..\GUI\lvgl\src\misc\lv_area.c
+os+lvgl\lv_area.o: ..\GUI\lvgl\src\misc\../lv_conf_internal.h
+os+lvgl\lv_area.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+os+lvgl\lv_area.o: ..\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+os+lvgl\lv_area.o: ..\GUI\lvgl\src\misc\../../../lv_conf.h
+os+lvgl\lv_area.o: ..\GUI\lvgl\src\misc\lv_area.h
+os+lvgl\lv_area.o: F:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+os+lvgl\lv_area.o: F:\MDK5\ARM\ARMCC\Bin\..\include\stdbool.h
+os+lvgl\lv_area.o: ..\GUI\lvgl\src\misc\lv_math.h
